@@ -1,7 +1,7 @@
 {
-  "name": "视频转实况照片",
+  "name": "Video to Live Photo",
   "localizedNames": {
-    "en": "Video to Live Photo"
+    "zh": "视频转实况照片"
   },
   "icon": "livephoto",
   "color": "#FF375F",
