@@ -1,0 +1,42 @@
+{
+  "iconImage" : null,
+  "description" : null,
+  "localizedDescriptions" : {
+    "fr" : "",
+    "it" : "",
+    "zh" : "",
+    "ja" : "",
+    "de" : "",
+    "es" : "",
+    "ru" : "",
+    "pt" : "",
+    "en" : ""
+  },
+  "name" : "Apply Scripting TestFlight",
+  "contributors" : [
+
+  ],
+  "localizedNames" : {
+    "fr" : "",
+    "it" : "",
+    "zh" : "",
+    "ja" : "",
+    "de" : "",
+    "es" : "",
+    "ru" : "",
+    "pt" : "",
+    "en" : ""
+  },
+  "intentInputTypes" : [
+
+  ],
+  "entry" : "index.tsx",
+  "permissions" : null,
+  "runInApp" : false,
+  "author" : null,
+  "remoteDefinitionId" : null,
+  "remoteResource" : null,
+  "color" : "rgba(28, 140, 255,1)",
+  "version" : "1.0.0",
+  "icon" : "airplane.departure"
+}
