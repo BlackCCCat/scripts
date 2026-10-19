@@ -1,16 +1,16 @@
 {
   "iconImage" : null,
-  "description" : null,
+  "description" : "Apply for Scripting TestFlight access by providing a purchase receipt, Pro status screenshot, and App Store five-star review screenshot. Receipt OCR extracts the Apple ID email and order number, then opens a prefilled Mail draft with all required attachments.",
   "localizedDescriptions" : {
     "fr" : "",
     "it" : "",
-    "zh" : "",
+    "zh" : "通过购买收据、Pro 状态页面和 App Store 五星短评截图申请 Scripting TestFlight 测试资格。收据 OCR 会识别 Apple ID 邮箱和订单号，并生成包含全部附件的邮件草稿。",
     "ja" : "",
     "de" : "",
     "es" : "",
     "ru" : "",
     "pt" : "",
-    "en" : ""
+    "en" : "Apply for Scripting TestFlight access with a purchase receipt, Pro status screenshot, and App Store five-star review screenshot. Receipt OCR extracts the Apple ID email and order number, then prepares a Mail draft with all required attachments."
   },
   "name" : "Apply Scripting TestFlight",
   "contributors" : [
@@ -19,13 +19,13 @@
   "localizedNames" : {
     "fr" : "",
     "it" : "",
-    "zh" : "",
+    "zh" : "申请 Scripting TestFlight",
     "ja" : "",
     "de" : "",
     "es" : "",
     "ru" : "",
     "pt" : "",
-    "en" : ""
+    "en" : "Apply for Scripting TestFlight"
   },
   "intentInputTypes" : [
 
