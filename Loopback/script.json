@@ -1,0 +1,26 @@
+{
+  "name": "Loopback",
+  "localizedNames": {
+    "zh": "回环",
+    "en": "Loopback"
+  },
+  "description": "Pair once, then let other scripts use ScriptSession and native tunnel handles; includes compatibility checks.",
+  "localizedDescriptions": {
+    "zh": "配对一次，其他脚本通过 ScriptSession 和原生隧道句柄接入；附带兼容性自检",
+    "en": "Pair once, then let other scripts use ScriptSession and native tunnel handles; includes compatibility checks"
+  },
+  "version": "1.0.0",
+  "author": {
+    "name": "ios151",
+    "email": null,
+    "homepage": "https://github.com/ios151"
+  },
+  "icon": "point.3.connected.trianglepath.dotted",
+  "color": "rgba(10, 132, 255, 1)",
+  "entry": "index.tsx",
+  "permissions": [
+    "vpn",
+    "localDevVPN"
+  ],
+  "runInApp": true
+}
